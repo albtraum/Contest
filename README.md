@@ -1,2 +1,4 @@
 # Contest
-only Contest 
+# only Contest 
+
+<li> 공모전 관련 프로젝트들을 업로드 합니다. (보안문제상 올릴 수 없는 공모전은 업로드 되지 않습니다.)
